@@ -116,12 +116,12 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Auto.cpp",
+			"path" : "Car.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Auto.h",
+			"path" : "Car.h",
 			"sourceGroupIndex" : 1
 		}
 	],
