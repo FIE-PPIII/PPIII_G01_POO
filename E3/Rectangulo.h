@@ -13,6 +13,8 @@
             double height;
             double width;
         public:
+            Rectangulo(double, double);
+            ~Rectangulo();
             virtual double calcularArea();
             virtual double calcularPerimetro();
 
