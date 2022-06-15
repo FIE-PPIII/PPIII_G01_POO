@@ -1,0 +1,8 @@
+# ninja log v5
+17	285	6769540114376999	CMakeFiles/E3.dir/Circulo.cpp.obj	925e56514f06d634
+2	609	6769540117657484	CMakeFiles/E3.dir/main.cpp.obj	7feda9fa6daf03fb
+611	806	6769540119532054	E3.exe	8cf74b218dd64c65
+14	220	6769546490820397	CMakeFiles/E3.dir/Rectangulo.cpp.obj	516643d034d39b2e
+6	266	6769546491289037	CMakeFiles/E3.dir/Circulo.cpp.obj	925e56514f06d634
+30	920	6769546497693790	CMakeFiles/E3.dir/main.cpp.obj	7feda9fa6daf03fb
+920	1149	6769546500036994	E3.exe	4c1730b95d6fa9e9

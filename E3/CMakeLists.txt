@@ -8,5 +8,7 @@ include_directories(.)
 add_executable(E3
         Circulo.cpp
         Circulo.h
+        Rectangulo.cpp
+        Rectangulo.h
         IFigura.h
         main.cpp)
