@@ -6,11 +6,11 @@
 	
 	#define E3_CIRCULO_H
 	
-	#include "IFigura.h"
+	#include "Figura.h"
 	
 	using namespace std;
 
-	class Circulo : public IFigura 
+	class Circulo : public Figura
 	{
 		private:
 			double radio;

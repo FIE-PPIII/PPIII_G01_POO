@@ -4,11 +4,11 @@
 
 #ifndef E3_RECTANGULO_H
     #define E3_RECTANGULO_H
-    #include "IFigura.h"
+    #include "Figura.h"
 
     using namespace std;
 
-    class Rectangulo : public IFigura {
+    class Rectangulo : public Figura {
         private:
             double height;
             double width;

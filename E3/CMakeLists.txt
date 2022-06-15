@@ -10,5 +10,6 @@ add_executable(E3
         Circulo.h
         Rectangulo.cpp
         Rectangulo.h
-        IFigura.h
+        Figura.h
+        Figura.cpp
         main.cpp)
